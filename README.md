@@ -1,5 +1,5 @@
 <!-- ✨ Typing animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5F99AE&width=600&lines=Hi%2C+I'm+Tuan+(Hadi+Miftahul+Fadly)!;Fullstack+Web+Developer+%7C+Crafting+Reusable+Web+Systems;Welcome+to+my+GitHub+space!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5F99AE&width=600&lines=Hi%2C+I'm+(Hadi+Miftahul+Fadly)!;Fullstack+Web+Developer+%7C+Crafting+Reusable+Web+Systems;Welcome+to+my+GitHub+space!)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTB6bzNvYjRwdHZpNjlza3I0M2xxdzBtZ3lxNjJ5dWZueTd3M25rYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrFLL3CnRpw5ddlBMm/giphy.gif" width="400" />
@@ -10,9 +10,6 @@
 ### 👨‍💻 About Me
 
 - 💼 Fullstack Web Developer at **ID Solutions**
-<!-- - 🚀 Currently building: **[Saffteen Studio](#)** — digital wedding invitation generator
-- 🧠 Passionate about: component-based design, automation, and clean architecture
-- 📚 Lifelong learner, currently deepening: `State Management`, `File Generators`, and `DX Optimization` -->
 - 💬 You can ask me anything about frontend, backend, APIs, or tooling
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hadi-miftahul-fadly-4a923b183/) | hadimiftahulf@gmail.com
 
@@ -28,15 +25,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
-<!-- 
-### 🚧 Featured Project: Saffteen Studio
-
-> 🏗️ **Saffteen Studio**  
-> Module-based generator for fullstack features (CRUD/API/Form/Table) in `Next.js + AntD`.  
-> Generates boilerplate instantly based on form config — designed for productivity & scalability.
-
---- -->
 
 ### 📈 GitHub Stats
 
