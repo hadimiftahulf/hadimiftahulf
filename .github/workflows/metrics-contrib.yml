@@ -15,7 +15,6 @@ jobs:
           user: hadimiftahulf
           config_timezone: Asia/Jakarta
           config_twemoji: yes
-          config_padding: 0, 12 + 8%
 
           config_order: |
             isocalendar
