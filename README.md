@@ -66,7 +66,9 @@
 ---
 ### 🚀 GitHub Metrics
 
-![Metrics](https://raw.githubusercontent.com/hadimiftahulf/hadimiftahulf/main/github-metrics.svg)
+![GitHub Profile Overview](./github-metrics-grid.svg)
+![GitHub Contributions](./github-contributions.svg)
+
 
 
 > _"Consistency beats motivation. Code like it's dhuhur — wajib, bukan sunnah."_ 🤍
