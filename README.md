@@ -30,9 +30,15 @@
 
 ### 🚀 GitHub Metrics
 
-![GitHub Profile Overview](./github-metrics-grid.svg)
+<!-- ![GitHub Profile Overview](./github-metrics-grid.svg)
 ![GitHub Contributions](./github-contributions.svg)
-![GitHub Contributions](./github-wakatime.svg)
+![GitHub Contributions](./github-wakatime.svg) -->
+
+<p align="center">
+  <img src="./github-metrics-grid.svg" alt="GitHub Profile Overview" style="width: 80%; display: block; margin: auto;" />
+  <img src="./github-contributions.svg" alt="GitHub Contributions" style="width: 80%; display: block; margin: auto;" />
+  <img src="./github-wakatime.svg" alt="GitHub Wakatime" style="width: 80%; display: block; margin: auto;" />
+</p>
 
 ---
 
