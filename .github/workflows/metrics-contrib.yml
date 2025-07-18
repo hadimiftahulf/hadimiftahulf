@@ -1,0 +1,41 @@
+name: 📦 GitHub Contributions
+
+on:
+  schedule: [{ cron: "20 * * * *" }]
+  workflow_dispatch:
+
+jobs:
+  metrics-contrib:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@master
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-contributions.svg
+          user: hadimiftahulf
+          config_timezone: Asia/Jakarta
+          config_twemoji: yes
+          config_padding: 0, 12 + 8%
+
+          config_order: |
+            isocalendar
+            followup
+            notable
+            lines
+            repositories
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          plugin_followup: yes
+          plugin_followup_sections: user, repositories
+
+          plugin_notable: yes
+          plugin_notable_filter: all
+          plugin_notable_repositories: 4
+
+          plugin_lines: yes
+
+          plugin_repositories: yes
+          plugin_repositories_private: yes
+          plugin_repositories_affiliations: owner, collaborator, organization_member
