@@ -11,7 +11,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: displaycontributions.svg
+          filename: display-contributions.svg
           user: hadimiftahulf
           config_timezone: Asia/Jakarta
           config_twemoji: yes

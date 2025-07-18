@@ -31,18 +31,18 @@
 ### 📊 My GitHub Metrics Overview
 
 <p align="center">
-  <img src="./displaymetrics-grid.svg" alt="GitHub Profile Overview" style="width: 80%; display: block; margin: auto;" />
+  <img src="./display-metrics-grid.svg" alt="GitHub Profile Overview" style="width: 80%; display-: block; margin: auto;" />
 </p>
 
 ### 🌱 Contribution Activity<
 
 <p align="center">
-  <img src="./displaycontributions.svg" alt="GitHub Contributions" style="width: 80%; display: block; margin: auto;" />
+  <img src="./display-contributions.svg" alt="GitHub Contributions" style="width: 80%; display-: block; margin: auto;" />
 
 ### ⌨️ WakaTime Stats
 
 <p align="center">
-  <img src="./displaywakatime.svg" alt="GitHub Wakatime" style="width: 80%; display: block; margin: auto;" />
+  <img src="./display-wakatime.svg" alt="GitHub Wakatime" style="width: 80%; display-: block; margin: auto;" />
 </p>
 
 ### 📬 Let’s Connect!
