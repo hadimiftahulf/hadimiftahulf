@@ -30,7 +30,6 @@ jobs:
           plugin_languages_limit: 20
           plugin_languages_threshold: 0%
           plugin_languages_categories: markup, programming, data, prose
-          plugin_languages_repositories: 20
 
           optimize: yes
 
