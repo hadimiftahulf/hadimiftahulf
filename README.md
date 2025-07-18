@@ -34,7 +34,7 @@
   <img src="./display-metrics-grid.svg" alt="GitHub Profile Overview" style="width: 80%; display-: block; margin: auto;" />
 </p>
 
-### 🌱 Contribution Activity<
+### 🌱 Contribution Activity
 
 <p align="center">
   <img src="./display-contributions.svg" alt="GitHub Contributions" style="width: 80%; display-: block; margin: auto;" />
