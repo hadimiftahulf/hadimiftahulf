@@ -1,52 +1,68 @@
 name: 📊 GitHub Metrics
+
 on:
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{ cron: "0 * * * *" }]  # Update setiap jam
   workflow_dispatch:
 
 jobs:
   metrics-grid:
+    name: 🧱 Metrics Grid Panel
     runs-on: ubuntu-latest
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics (Grid Layout)
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics-grid.svg
           user: hadimiftahulf
+          filename: github-metrics-grid.svg
           config_timezone: Asia/Jakarta
-          config_layout: "grid"
-          config_twemoji: yes
+          config_layout: grid
+          config_twemoji: true
 
           config_order: |
             introduction
             languages
-            codestats
+            wakatime
             achievements
 
-          plugin_introduction: yes
+          # 👤 Introduction Section
+          plugin_introduction: true
 
-          plugin_languages: yes
+          # 🧠 Languages Used
+          plugin_languages: true
           plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
+          plugin_languages_indepth: true
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
 
-          plugin_codestats: yes
-          plugin_codestats_user: hadimiftahulf
+          # ⏱️ WakaTime Stats
+          plugin_wakatime: true
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_user: hadimiftahulf
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_sections: time, projects, languages, editors
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
 
-          plugin_achievements: yes
+          # 🏆 Achievements
+          plugin_achievements: true
           plugin_achievements_display: compact
           plugin_achievements_threshold: C
 
   metrics-contrib:
+    name: 🧩 Contribution Panel
     runs-on: ubuntu-latest
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate Metrics (Contributions Layout)
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-contributions.svg
           user: hadimiftahulf
+          filename: github-contributions.svg
           config_timezone: Asia/Jakarta
-          config_twemoji: yes
+          config_twemoji: true
           config_padding: 0, 12 + 8%
 
           config_order: |
@@ -56,16 +72,21 @@ jobs:
             lines
             repositories
 
-          plugin_isocalendar: yes
+          # 📆 Commit Activity Calendar
+          plugin_isocalendar: true
           plugin_isocalendar_duration: full-year
 
-          plugin_followup: yes
+          # 🔄 Follow-up on PRs/Issues
+          plugin_followup: true
 
-          plugin_notable: yes
+          # ⭐ Notable Repositories
+          plugin_notable: true
           plugin_notable_filter: all
           plugin_notable_repositories: 4
 
-          plugin_lines: yes
+          # 📊 Code Line Stats
+          plugin_lines: true
 
-          plugin_repositories: yes
-          plugin_repositories_featured: hadimiftahulf/hadimiftahulf
+          # 📦 Repositories Overview
+          plugin_repositories: true
+          # plugin_repositories_featured: hadimiftahulf/hadimiftahulf  # Optional: Tambah repo spesifik
