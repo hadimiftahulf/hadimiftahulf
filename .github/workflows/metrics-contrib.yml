@@ -36,5 +36,4 @@ jobs:
           plugin_lines: yes
 
           plugin_repositories: yes
-          plugin_repositories_private: yes
           plugin_repositories_affiliations: owner, collaborator, organization_member
