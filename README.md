@@ -1,5 +1,6 @@
 <!-- Typing intro -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5F99AE&width=600&lines=Hi%2C+I'm+(Hadi+Miftahul+Fadly)!;Fullstack+Web+Developer+%7C+Crafting+Reusable+Web+Systems;Welcome+to+my+GitHub+space!)](https://git.io/typing-svg)
+
+[![Typing SVG](<https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5F99AE&width=600&lines=Hi%2C+I'm+(Hadi+Miftahul+Fadly)!;Fullstack+Web+Developer+%7C+Crafting+Reusable+Web+Systems;Welcome+to+my+GitHub+space!>)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhic2p4NXFzOHh3amdidnNkaWozYXp6Z2M5ZjFnbXFibGlqbjJhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pIE9kxU9XtFlm9NHk6/giphy.gif" width="500" />
@@ -31,6 +32,7 @@
 
 ![GitHub Profile Overview](./github-metrics-grid.svg)
 ![GitHub Contributions](./github-contributions.svg)
+![GitHub Contributions](./github-wakatime.svg)
 
 ---
 
