@@ -1,4 +1,4 @@
-<!-- ✨ Typing animation -->
+<!-- Typing intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5F99AE&width=600&lines=Hi%2C+I'm+(Hadi+Miftahul+Fadly)!;Fullstack+Web+Developer+%7C+Crafting+Reusable+Web+Systems;Welcome+to+my+GitHub+space!)](https://git.io/typing-svg)
 
 <p align="center">
@@ -25,30 +25,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/hadimiftahulf?cardType=level&theme=react&preferLogin=false" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadimiftahulf&layout=compact&theme=radical" width="400"/>
-</p>
-
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 GitHub Metrics
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hadimiftahulf&theme=radical&margin-w=10" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/hadimiftahulf/hadimiftahulf/raw/output/github-contribution-grid-snake.svg" />
-</p>
+![GitHub Profile Overview](./github-metrics-grid.svg)
+![GitHub Contributions](./github-contributions.svg)
 
 ---
 
@@ -64,11 +46,5 @@
 </p>
 
 ---
-### 🚀 GitHub Metrics
-
-![GitHub Profile Overview](./github-metrics-grid.svg)
-![GitHub Contributions](./github-contributions.svg)
-
-
 
 > _"Consistency beats motivation. Code like it's dhuhur — wajib, bukan sunnah."_ 🤍
