@@ -1,26 +1,25 @@
 name: 📊 GitHub Metrics
 
 on:
-  schedule: [{cron: "0 * * * *"}] # per jam
+  schedule: [{cron: "0 * * * *"}]
   workflow_dispatch:
 
 jobs:
   metrics-grid:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics-grid.svg
           user: hadimiftahulf
           config_timezone: Asia/Jakarta
-          config_layout: "grid"
           config_twemoji: yes
 
           config_order: |
             introduction
             languages
-            codestats
+            wakatime
             achievements
 
           plugin_introduction: yes
@@ -31,8 +30,9 @@ jobs:
           plugin_languages_limit: 8
           plugin_languages_threshold: 2%
 
-          plugin_codestats: yes
-          plugin_codestats_user: hadimiftahulf
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, languages, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
           plugin_achievements: yes
           plugin_achievements_display: compact
@@ -41,7 +41,7 @@ jobs:
   metrics-contrib:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-contributions.svg
