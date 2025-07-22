@@ -1979,7 +1979,7 @@
         
           <small>
             
-              estimation from 237kb of code in 276 edited files across 71 commits over last 11 days
+              estimation from 249kb of code in 288 edited files across 73 commits over last 11 days
             
           </small>
         
@@ -1990,13 +1990,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="301.9818534691897" height="8" fill="#4F5D95"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="289.8293745270657" height="8" fill="#4F5D95"/>
             
-              <rect mask="url(#languages-bar)" x="301.9818534691897" y="0" width="76.46132945172246" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="289.8293745270657" y="0" width="91.36878725799605" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="378.44318292091214" y="0" width="58.55681707908783" height="8" fill="#878787"/>
+              <rect mask="url(#languages-bar)" x="381.19816178506176" y="0" width="56.091763099127036" height="8" fill="#878787"/>
             
-              <rect mask="url(#languages-bar)" x="437" y="0" width="23" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="437.28992488418885" y="0" width="22.710075115811232" height="8" fill="#f1e05a"/>
             
           </svg>
         
@@ -2152,7 +2152,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 23 Jul 2025, 03:22:54 (timezone Asia/Jakarta) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 23 Jul 2025, 04:19:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
