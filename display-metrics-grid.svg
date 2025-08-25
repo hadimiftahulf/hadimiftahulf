@@ -1979,7 +1979,7 @@
         
           <small>
             
-              estimation from 161kb of code in 264 edited files across 60 commits over last 13 days
+              estimation from 161kb of code in 266 edited files across 63 commits over last 13 days
             
           </small>
         
@@ -1990,15 +1990,15 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="204.10480691401864" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="203.63425594268966" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="204.10480691401864" y="0" width="92.02642366641426" height="8" fill="#878787"/>
+              <rect mask="url(#languages-bar)" x="203.63425594268966" y="0" width="92.58117876913059" height="8" fill="#878787"/>
             
-              <rect mask="url(#languages-bar)" x="296.13123058043294" y="0" width="81.43293558578553" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="296.21543471182025" y="0" width="81.53878215564963" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="377.56416616621846" y="0" width="81.35486566228884" height="8" fill="#4F5D95"/>
+              <rect mask="url(#languages-bar)" x="377.7542168674699" y="0" width="81.16730706610224" height="8" fill="#4F5D95"/>
             
-              <rect mask="url(#languages-bar)" x="458.91903182850723" y="0" width="1.0809681714927284" height="8" fill="#c6538c"/>
+              <rect mask="url(#languages-bar)" x="458.9215239335721" y="0" width="1.0784760664278736" height="8" fill="#c6538c"/>
             
           </svg>
         
@@ -2159,7 +2159,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 25 Aug 2025, 11:26:25 (timezone Asia/Jakarta) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 25 Aug 2025, 12:19:55 (timezone Asia/Jakarta) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
