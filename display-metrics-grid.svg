@@ -1853,7 +1853,7 @@
             </div>
             <div class="field">
               <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/></svg>
-              626 MB used
+              627 MB used
             </div>
             
           </section>
@@ -1986,7 +1986,7 @@
         
           <small>
             
-              estimation from 23.7kb of code in 17 edited files across 27 commits over last 8 days
+              estimation from 24.9kb of code in 22 edited files across 31 commits over last 8 days
             
           </small>
         
@@ -1997,13 +1997,13 @@
             </mask>
             <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
             
-              <rect mask="url(#languages-bar)" x="0" y="0" width="341.88614194416414" height="8" fill="#41b883"/>
+              <rect mask="url(#languages-bar)" x="0" y="0" width="336.1618917689859" height="8" fill="#41b883"/>
             
-              <rect mask="url(#languages-bar)" x="341.88614194416414" y="0" width="52.780861083081064" height="8" fill="#c6538c"/>
+              <rect mask="url(#languages-bar)" x="336.1618917689859" y="0" width="51.89714332961263" height="8" fill="#c6538c"/>
             
-              <rect mask="url(#languages-bar)" x="394.6670030272452" y="0" width="38.139926000672716" height="8" fill="#f1e05a"/>
+              <rect mask="url(#languages-bar)" x="388.05903509859854" y="0" width="38.1859522923643" height="8" fill="#f1e05a"/>
             
-              <rect mask="url(#languages-bar)" x="432.8069290279179" y="0" width="27.193070972082072" height="8" fill="#878787"/>
+              <rect mask="url(#languages-bar)" x="426.2449873909628" y="0" width="33.755012609037166" height="8" fill="#878787"/>
             
           </svg>
         
@@ -2159,7 +2159,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated 7 Oct 2025, 18:15:32 (timezone Asia/Jakarta) with lowlighter/metrics@3.35.0-beta</span>
+          <span>Last updated 7 Oct 2025, 19:38:44 (timezone Asia/Jakarta) with lowlighter/metrics@3.35.0-beta</span>
         </footer>
       
 
